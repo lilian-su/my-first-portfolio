@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All"],
     gitUrl: "https://github.com/lilian-su/Library-management",
-    previewUrl: "https://www.figma.com/design/wf0zCwTdrjAaSPrdB3RLdy/Cluster-UIUX?m=dev",
+    previewUrl: "",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/lilian-su/my-first-portfolio/",
-    previewUrl: "https://www.figma.com/design/wf0zCwTdrjAaSPrdB3RLdy/Cluster-UIUX?m=dev",
+    previewUrl: "https://my-first-portfolio-teal.vercel.app/",
   },
 
   
