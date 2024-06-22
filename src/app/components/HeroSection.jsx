@@ -33,7 +33,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a multi-disciplinary developer with a passion for design as well, currently working to find my way in coding.
+            I am a multi-disciplinary developer with a passion for design as well, currently working to find my way in coding.
           </p>
           <div>
 
