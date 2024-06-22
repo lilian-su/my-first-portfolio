@@ -17,15 +17,13 @@ const HeroSection = () => {
         >
           <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
-              Hello, I am{" "}
+              Hello, I&apos;m{" "}
             </span>
-            <br></br>
+            <br />
             <TypeAnimation
               sequence={[
                 "Lilian",
                 1000,
-
-
               ]}
               wrapper="span"
               speed={50}
@@ -36,7 +34,6 @@ const HeroSection = () => {
             I am a multi-disciplinary developer with a passion for design as well, currently working to find my way in coding.
           </p>
           <div>
-
             <Link
               href="https://drive.google.com/file/d/1hqRjQjF0cNcc3JdqVc5LRvXjXkSUmYaN/view?usp=sharing"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
